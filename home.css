@@ -14,7 +14,7 @@ body {
 /* Agrega estilos para el navbar */
 /* Estilos para el navbar */
 .navbar {
-    /* position: fixed;*/
+    position: fixed;
     top: 0;
     left: 0;
     width: 100%; /* Cambia el ancho al 100% */
@@ -72,7 +72,7 @@ a:hover {
 
 /* Contenedor de menú */
 .menu-container {
-    margin-top: 150px;
+    margin-top: 200px;
     text-align: center;
     padding: 10px;
 }
