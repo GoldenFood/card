@@ -1,5 +1,5 @@
 const quesoImage = './images/queso.jpg';
-const quesoPolloChoclo = './images/queso_pollo_choclo.png';
+const quesoPolloChoclo = './images/queso_pollo_choclo.jpg';
 const quesoChocloImage = './images/queso_choclo.jpg';
 const quesoChampinon = './images/queso_champinon.jpg';
 const quesoChampinonChoclo = './images/queso_champinon_choclo.jpg';
