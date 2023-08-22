@@ -1,5 +1,5 @@
 const quesoImage = './images/queso.jpg';
-const quesoPolloChoclo = './images/queso_pollo_choclo.jpg';
+const queso_PolloChoclo = './images/queso_pollo_choclo.jpg';
 const quesoChocloImage = './images/queso_choclo.jpg';
 const quesoChampinon = './images/queso_champinon.jpg';
 const quesoChampinonChoclo = './images/queso_champinon_choclo.jpg';
@@ -24,7 +24,7 @@ const menuData = [
           title: 'Queso Pollo Choclo',
           description: 'Rellena con Queso, Pollo Picado y Choclo en granos.',
           price: '$2.400',
-          image: quesoPolloChoclo
+          image: queso_PolloChoclo
         },
         {
           title: 'Queso Choclo',
