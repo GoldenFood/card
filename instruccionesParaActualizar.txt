@@ -1,0 +1,16 @@
+Para actualizar cualquier archivo despues
+de editarlo, debemos seguir los 
+siguientes pasos:
+
+1:Abrir Terminal de Git
+2: Posicionarnos en la carpeta del proyecto 
+(comunmente sera "cd desktop" - luego "cd carpetaDelProyecto")
+3: una vez dentro del directorio del proyecto, 
+haremos, ejecutaremos este comando:
+git add .
+
+4: luego, haremos es commit para guardar los cambios
+git commit -m "Comentario e lo que se hizo"
+
+5: Y para Finalizar, debemos ejecutar el comando:
+git push origin main:gh-pages
